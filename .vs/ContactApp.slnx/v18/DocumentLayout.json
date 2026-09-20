@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\services\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:services\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\services\\inmemorycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:services\\inmemorycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\views\\contacts\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:views\\contacts\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T07:29:13.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:11:04.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T07:25:17.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:20:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T07:29:23.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Services\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Services\\IContactRepository.cs",
+              "RelativeToolTip": "Services\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:49:23.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Services\\InMemoryContactRepository.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryContactRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Services\\InMemoryContactRepository.cs",
+              "RelativeToolTip": "Services\\InMemoryContactRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:59:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T07:27:28.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB0AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T06:46:19.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T08:52:06.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Contacts\\NotFound.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T07:06:37.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T10:18:12.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ContactApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:11:22.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
